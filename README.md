@@ -21,5 +21,5 @@ Hate Speech Detection and Sentiment Analysis in Tamil Language.
 
 TF-IDF used as vectorizer for baseline model
 
-##Paper link
+## Paper link
 https://www.sciencedirect.com/science/article/abs/pii/S0885230822000870
