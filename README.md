@@ -1,4 +1,4 @@
-# HOTTEST: Hate and Offensive content identification in Tamil using Transformers and Enhanced STemming
+# HOTTEST-Hate-and-Offensive-content-identification-in-Tamil-using-Transformers-and-Enhanced-STemming
 
 Hate Speech Detection and Sentiment Analysis in Tamil Language.
 
