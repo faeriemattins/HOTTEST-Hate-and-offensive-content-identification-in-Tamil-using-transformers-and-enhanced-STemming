@@ -1,4 +1,4 @@
-# Hate-Speech-Detection-in-Tamil
+# HOTTEST: Hate and Offensive content identification in Tamil using Transformers and Enhanced STemming
 
 Hate Speech Detection and Sentiment Analysis in Tamil Language.
 
@@ -20,3 +20,6 @@ Hate Speech Detection and Sentiment Analysis in Tamil Language.
 6. mBERT
 
 TF-IDF used as vectorizer for baseline model
+
+##Paper link
+https://www.sciencedirect.com/science/article/abs/pii/S0885230822000870
